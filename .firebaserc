@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "staging": "esom-app",
+    "default": "esom-app"
+   
+  },
+  "targets": {},
+  "etags": {}
+}
